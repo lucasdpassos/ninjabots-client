@@ -13,10 +13,9 @@ import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
 
 export const navItems = [
-  { label: "Features", href: "#" },
-  { label: "Workflow", href: "#" },
-  { label: "Pricing", href: "#" },
-  { label: "Testimonials", href: "#" },
+  { label: "Nossa Promessa", href: "#" },
+  { label: "Tecnologia", href: "#" },
+  { label: "Recursos", href: "#" },
 ];
 
 export const testimonials = [
@@ -61,62 +60,62 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    text: "Automação Inteligente",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "Reduza o tempo de resposta e aumente a eficiência com bots que entendem e respondem às mensagens de forma rápida e precisa.",
   },
   {
     icon: <Fingerprint />,
-    text: "Multi-Platform Compatibility",
+    text: "Chatbots humanizados",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Proporcione uma experiência mais próxima e empática com bots que simulam conversas humanas, aumentando a satisfação e a fidelização dos clientes.",
   },
   {
     icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    text: "Segurança",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "Garanta a proteção dos dados de seus clientes com nossa infraestrutura robusta e protocolos de segurança avançados, mantendo a confidencialidade e integridade das informações.",
   },
   {
     icon: <BatteryCharging />,
-    text: "Real-Time Preview",
+    text: "Online 24h",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "Esteja disponível para seus clientes a qualquer hora do dia, garantindo que nenhuma oportunidade de venda ou suporte seja perdida.",
   },
   {
     icon: <PlugZap />,
-    text: "Collaboration Tools",
+    text: "Integração com sistemas",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "Conecte-se facilmente com suas plataformas de CRM, banco de dados, e-commerce, pagamentos e outras ferramentas essenciais, criando um fluxo harmonioso e eficiente.",
   },
   {
     icon: <GlobeLock />,
-    text: "Analytics Dashboard",
+    text: "Suporte total",
     description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "Conte com uma equipe dedicada para ajudar você em todas as etapas, desde a implementação até o suporte contínuo, assegurando que tudo sempre funcione perfeitamente.",
   },
 ];
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
+    title: "Meta Business API",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Utilize nossa API oficial e mantenha seu número seguro e funcional sempre, sem risco de banimento do seu assistente virtual",
   },
   {
-    title: "Review code without worry",
+    title: "Fluxo construído com as stacks mais avançadas do mercado",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Garanta interações rápidas e eficientes com nossos fluxos otimizados e tecnologicamente avançados.",
   },
   {
-    title: "AI Assistance to reduce time",
+    title: "Qualificação inteligente de leads",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Inteligencia artificial para filtrar e categorizar leads automaticamente para maximizar suas oportunidades de vendas.",
   },
   {
-    title: "Share work in minutes",
+    title: "Um assistente virtual completo",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Ofereça uma experiência personalizada e envolvente com um assistente virtual que vai além das respostas automáticas.",
   },
 ];
 
@@ -154,11 +153,8 @@ export const pricingOptions = [
 ];
 
 export const resourcesLinks = [
-  { href: "#", text: "Getting Started" },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
+  { href: "#", text: "Primeiros Passos" },
+  { href: "#", text: "Whitepaper" }
 ];
 
 export const platformLinks = [
@@ -170,9 +166,9 @@ export const platformLinks = [
 ];
 
 export const communityLinks = [
-  { href: "#", text: "Events" },
+  { href: "#", text: "Blog Ninj.AI" },
   { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "#", text: "Brindes" },
+  { href: "https://www.facebook.com/profile.php?id=61560003614730", text: "Facebook" },
+  { href: "#", text: "Instagram" },
 ];
