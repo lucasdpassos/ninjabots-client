@@ -14,7 +14,7 @@ const WhatsAppButton = () => {
       href={whatsappUrl} 
       target="_blank" 
       rel="noopener noreferrer"
-      className="-lg fixed bottom-28 right-4 w-24 h-24 bg-primary rounded-full flex items-center justify-center shadow-lg hover:bg-green-600 transition duration-300"
+      className="-lg fixed bottom-28 right-4 w-24 h-24 bg-primary rounded-full flex items-center justify-center shadow-lg hover:bg-green-600 transition duration-300 z-20"
       style={bounceAnimation}
     >
       <img 
